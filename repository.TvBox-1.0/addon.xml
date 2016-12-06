@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.TvBox" name="Deutsche Sender Repository" version="1.0" provider-name="TK's">
+	<extension point="xbmc.addon.repository" name="Deutsche Sender Repository">
+		<info compressed="false">https://tvboxdeutsch.000webhostapp.com/TvBox/Files/addons.xml</info>
+		<checksum>https://tvboxdeutsch.000webhostapp.com/TvBox/Files/addons.xml.md5</checksum>
+		<datadir zip="true">https://tvboxdeutsch.000webhostapp.com/?dir=TvBox/Files//</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <description lang="de">Sie haben Fragen oder Probleme beim einrichten, schreiben Sie uns auf unsere Facebook Seite</description>
+    <platform>all</platform>
+  </extension>
+</addon>
